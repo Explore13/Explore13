@@ -4,13 +4,13 @@
 <img align="right" top alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=explore13&label=Profile%20views&color=0e75b6&style=flat" alt="explore13" /> </p>
 
-- 🔭 I’m currently working as a **Video Editor @PYQ_Platform**, I have worked as an **Intern @LetsGrowMore**
+- 🔭 I’m currently working as a **Video Editor @SoLVit**.
 
 - 🌱 I’m currently learning **Java, Full Stack Web Development**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/suryaghosh_13](https://linktr.ee/suryaghosh_13)
 
-- 💬 Ask me about **C, HTML, CSS, Java, JavaScript, React, TailwindCSS, NodeJS, ExpressJS, BootStrap**
+- 💬 Ask me about **C, HTML, CSS, Java, JavaScript, React, TailwindCSS, NodeJS, ExpressJS, BootStrap, TailwindCSS, MongoDB, PostgreSQL**
 
 - 📫 How to reach me **igsuryas13g@gmail.com**
 
