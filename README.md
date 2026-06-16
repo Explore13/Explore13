@@ -1,14 +1,27 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif" width="100%" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&color=6E9FFF&center=true&vCenter=true&width=850&height=60&lines=Hey+there!+I'm+Surya+Ghosh+👋;Full+Stack+Developer+🚀;I+Build+Web+Apps+and+APIs+💻;NestJS+%E2%80%A2+React+%E2%80%A2+React+Native+⚡;Learning+Something+New+Every+Day+🌱;It+is+Never+Too+Late+to+Start+Again+🔥" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&height=60&lines=Hey+there!+I'm+Surya+Ghosh+👋;Full+Stack+Developer+🚀;Building+Web+and+Mobile+Apps+📱;Always+Learning+and+Improving+🌱;Creating+Projects+That+Solve+Problems+⚡;It+is+Never+Too+Late+to+Start+Again+🔥" alt="Typing SVG" />
   <!-- <h3>🚀 Building. Learning. Improving. Repeating.</h3> -->
+
+<p align="center">
+  <a href="https://linkedin.com/in/ghosh-surya" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+   <a href="mailto:suryaweb30@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/suryaghosh_13" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=x&logoColor=white" />
+  </a>
+ 
+</p>
 </div>
 
 ## 🚀 About Me
 
 <img align="right" alt="Coding" width="360" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" />
 
-- 💼 **Junior Full Stack Dev** @ AscentSpark — OTT for **5M+ users**
+- 💼 **Junior Full Stack Developer** @ AscentSpark
 - 🎓 **B.Tech ECE '26** · FIEM, Kolkata
 - 🏆 **2× Hackathon Winner** — MAKAUT 2024 & Global NOSU AI 2024 (China)
 - 🥇 **Best Intern of the Month** — Capsitech IT Services (Aug 2025)
@@ -16,8 +29,6 @@
 - 📱 Building cross-platform apps with **React Native**
 - 🎯 Shipping real-world products while preparing for SWE placements
 - ⚡ Fun fact: *I ship features faster than I forget them*
-
-<br clear="right"/>
 
 ## 💻 Developer Card
 
@@ -40,6 +51,7 @@ const surya = {
     "Video Streaming Pipelines"
   ]
 };
+
 ```
 
 ## 🛠️ Tech Stack
@@ -94,6 +106,12 @@ const surya = {
 | 🆘 | [Published Research Paper — AEGIS: AI-powered Women Safety App](https://isjem.com/download/aegis-an-automated-voice-code-detected-women-safety-application/) |
 | 📚 | 10+ Hackathons participated · Continuously building & shipping |
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/explore13/explore13/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+</p>
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -116,30 +134,38 @@ const surya = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=explore13&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/explore13/explore13/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-</p>
-
-## 🌐 Connect with me:
- 
-<p align="left">
-  <a href="https://twitter.com/suryaghosh_13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="suryaghosh_13" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/ghosh-surya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ghosh-surya" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/21338210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21338210" height="30" width="40" /></a>
-  <a href="https://instagram.com/suryaghosh_13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suryaghosh_13" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/c/@surya_ghosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@surya_ghosh" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/@suryaghoshchemi1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@suryaghoshchemi1" height="30" width="40" /></a>
-  &nbsp;
-  <a href="mailto:suryaweb30@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" height="28" /></a>
-  &nbsp;
-  <a href="https://linktr.ee/suryaghosh_13" target="blank"><img align="center" src="https://img.shields.io/badge/Linktree-39E09B?style=flat-square&logo=linktree&logoColor=white" height="28" /></a>
-</p>
-
 ---
 
 <h3 align="left">🌟 Favourite Quote:</h3>
 <p align="center">
-  <em>💭 *"It is never too late to start again."</em>
+  <em>💭 "It is never too late to start again."</em>
+</p>
+
+</br>
+
+<p align="center">
+  <a href="https://linkedin.com/in/ghosh-surya" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/suryaghosh_13" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=x&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/suryaghosh_13" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/c/@surya_ghosh" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://stackoverflow.com/users/21338210" target="_blank">
+    <img src="https://img.shields.io/badge/StackOverflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/@suryaghoshchemi1" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" />
+  </a>
+  <a href="https://linktr.ee/suryaghosh_13" target="_blank">
+    <img src="https://img.shields.io/badge/Linktree-39E09B?style=flat-square&logo=linktree&logoColor=white" />
+  </a>
+  <a href="mailto:suryaweb30@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
 </p>
